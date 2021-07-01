@@ -96,6 +96,10 @@ a:hover{
 .p-contactme{
   margin-bottom: 50px;
 }
+
+.footer-link{
+  color: grey;
+}
 .copyright{
   color: grey;
   font-family: 'Merriweather Sans', sans-serif;
