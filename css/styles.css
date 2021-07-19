@@ -129,6 +129,10 @@ a:hover{
   padding-top: 10px;
 }
 
+.certificatesthree {
+  color: grey;
+}
+
 .btn {
   background: #bd9354;
   background-image: -webkit-linear-gradient(top, #bd9354, #85603f);
